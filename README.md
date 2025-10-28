@@ -1,5 +1,7 @@
 # 🚀 MyJOBS_ - Tech Talent Matching Platform
 
+> © 2025 by Hasan Yüksel. All rights reserved.
+
 ![MyJOBS_ Banner](https://via.placeholder.com/1200x400/0ea5e9/ffffff?text=MyJOBS_+-+Find+Your+Next+Tech+Role)
 
 ## 🌐 Live Demo
