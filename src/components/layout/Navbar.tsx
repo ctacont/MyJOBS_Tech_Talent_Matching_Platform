@@ -24,9 +24,14 @@ const Navbar: React.FC = () => {
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary-500 to-purple-600 flex items-center justify-center">
               <span className="text-white font-bold text-xl">M</span>
             </div>
-            <span className="text-xl font-bold text-gray-900 dark:text-white">
-              MyJOBS_
-            </span>
+            <div className="flex flex-col">
+              <span className="text-xl font-bold text-gray-900 dark:text-white">
+                MyJOBS_
+              </span>
+              <span className="text-xs text-gray-500 dark:text-gray-400 -mt-1">
+                DEMO by Hasan Yüksel
+              </span>
+            </div>
           </Link>
 
           {/* Navigation Links */}
