@@ -105,11 +105,12 @@ const AIRecommendationsPage: React.FC = () => {
           /* Recommendations List */
           <div className="max-w-4xl mx-auto space-y-6">
             {getRecommendedJobs().map((job, index) => (
-              <Card
+              <div
                 key={job.id}
-                className="p-6 hover:shadow-xl transition-all duration-200 animate-slide-up"
+                className="animate-slide-up"
                 style={{ animationDelay: `${index * 100}ms` }}
               >
+                <Card className="p-6 hover:shadow-xl transition-all duration-200">
                 {/* Match Score Badge */}
                 <div className="flex items-start justify-between mb-4">
                   <div className="flex items-start gap-4 flex-1">
@@ -239,6 +240,7 @@ const AIRecommendationsPage: React.FC = () => {
                   </div>
                 </div>
               </Card>
+              </div>
             ))}
 
             {/* No Recommendations */}
