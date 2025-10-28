@@ -35,7 +35,7 @@ const ProtectedRoute: React.FC<ProtectedRouteProps> = ({ children }) => {
  */
 function App() {
   return (
-    <Router>
+    <Router basename="/MyJOBS_Tech_Talent_Matching_Platform">
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-200">
         <Navbar />
         
