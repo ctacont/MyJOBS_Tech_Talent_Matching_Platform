@@ -2,6 +2,10 @@
 
 ![MyJOBS_ Banner](https://via.placeholder.com/1200x400/0ea5e9/ffffff?text=MyJOBS_+-+Find+Your+Next+Tech+Role)
 
+## 🌐 Live Demo
+
+**[🚀 Live Demo auf GitHub Pages](https://ctacont.github.io/MyJOBS_Tech_Talent_Matching_Platform/)**
+
 ## 📖 Über das Projekt
 
 **MyJOBS_** ist eine moderne Demo-Anwendung für Recruiting und Matching von Tech-Talenten mit innovativen Unternehmen. Diese Showcase-App demonstriert moderne Web-Development-Praktiken und bietet eine intuitive, Tinder-ähnliche Matching-Experience für die Job-Suche.
