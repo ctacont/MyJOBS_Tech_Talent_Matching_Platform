@@ -83,8 +83,8 @@ myjobs_match/
 
 1. **Repository klonen**
 ```bash
-git clone <repository-url>
-cd myjobs_match
+git clone https://github.com/ctacont/MyJOBS_Tech_Talent_Matching_Platform.git
+cd MyJOBS_Tech_Talent_Matching_Platform
 ```
 
 2. **Dependencies installieren**
